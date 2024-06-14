@@ -1,0 +1,7 @@
+{
+  "name": "sync5",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
